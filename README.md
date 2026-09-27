@@ -4,7 +4,7 @@ Cartoon airplane career on a toy-sized Earth: start in an ultralight, retire in 
 
 ## Download (Windows)
 
-**[Download Skybound.exe](https://github.com/ArthurPluto/skybound-releases/releases/download/v1/Skybound.exe)** (about 500 MB), then run it. No install needed.
+**[Download Skybound.exe](https://github.com/ArthurPluto/skybound-releases/releases/download/v5/Skybound.exe)** (about 500 MB), then run it. No install needed.
 
 Windows may say it protected your PC because the app is not signed: click **More info**, then **Run anyway**.
 
